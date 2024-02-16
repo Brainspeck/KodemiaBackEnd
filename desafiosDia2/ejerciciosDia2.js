@@ -1,4 +1,4 @@
-//ejercicio 1 
+//ejercicio 1, determinar si un numero dado es primo:
 
 const esPrimo = (numero) => {
     if (numero <= 1){
@@ -14,7 +14,7 @@ const esPrimo = (numero) => {
 
 
 
-//ejercicio 2
+//ejercicio 2, determinar el área de un triángulo
 
 const areaTriangulo = (base, altura) => {
     if ( base < 0 || altura < 0){
